@@ -12,7 +12,7 @@ Eli Bradley offers patches to the cutting edge software, "Well-then", in the for
 | patch-2 | merged | incompatible | merged | incompatible | incompatible | equivalent | incompatible |
 | patch-3 | merged | compatible | merged | compatible | incompatible | incompatible | equivalent |
 | ongoing | false | true? | false | true? | false | false | false |
-| issue | N/A | N/A | N/A | N/A | #2 | #6 | #8 |
-| pull | N/A | N/A | #1 | N/A | #3 | #5 | #7 & #9 |
+| issue | N/A | N/A | N/A | N/A | [#2](https://github.com/larry0618/Well-then/issues/2) | [#6](https://github.com/larry0618/Well-then/issues/6) | [#8](https://github.com/larry0618/Well-then/issues/8) |
+| pull | N/A | N/A | [#1](https://github.com/larry0618/Well-then/pull/1) | N/A | [#3](https://github.com/larry0618/Well-then/pull/3) | [#5](https://github.com/larry0618/Well-then/pull/5) | [#7](https://github.com/larry0618/Well-then/pull/7) & [#9](https://github.com/larry0618/Well-then/pull/9) |
 
 Currently, larry0618/master and larry0618/gh-pages have conflicting changes regarding spacing conventions. They are both ancestored by my stable patch-3 branch. Thanks for visiting!
