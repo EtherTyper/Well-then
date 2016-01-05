@@ -11,7 +11,6 @@ Eli Bradley offers patches to [@larry0618](https://github.com/larry0618/)'s cutt
 | patch-1 | merged | incompatible | merged | incompatible | equivalent | incompatible | incompatible |
 | patch-2 | merged | incompatible | merged | incompatible | incompatible | equivalent | incompatible |
 | patch-3 | merged | compatible | merged | compatible | incompatible | incompatible | equivalent |
-| ongoing | false | true? | false | true? | false | false | false |
 | issue | N/A | N/A | N/A | N/A | [#2](https://github.com/larry0618/Well-then/issues/2) | [#6](https://github.com/larry0618/Well-then/issues/6) | [#8](https://github.com/larry0618/Well-then/issues/8) |
 | pull | N/A | N/A | [#1](https://github.com/larry0618/Well-then/pull/1) | N/A | [#3](https://github.com/larry0618/Well-then/pull/3) | [#5](https://github.com/larry0618/Well-then/pull/5) | [#7](https://github.com/larry0618/Well-then/pull/7) & [#9](https://github.com/larry0618/Well-then/pull/9) |
 | reftype | tag | branch | release | branch | release | release | release |
